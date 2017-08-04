@@ -5,4 +5,5 @@ package com.example.hp_bdn.mapshare;
  */
 
 public class testCommit {
+    private int asd ;
 }
